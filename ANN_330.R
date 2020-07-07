@@ -1,4 +1,4 @@
-#https://rpubs.com/mzc/mlwr_ann_concrete
+
 #gtfs = read.csv("D:\\RealTime GTFS Filtered by Route Points 10m_Ordered_Cleaned_1.csv")
 
 gtfs = read.csv("D:\\FilteredGTFS.csv")
