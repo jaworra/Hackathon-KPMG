@@ -12,6 +12,13 @@ Have you ever wondered what happened to your bus? While the TransLink app works 
 # Solution
 As part of the TMR Hack and the KPMG Hackathon, Marco Motta and John Worrall, from the Transport Analysis team at PPI, led the charge in developing the concept for a system that uses neural network analytics to predict bus delays caused by unexpected incidents
 
+
+## Dependencies
+- Ruby on Rails
+- R
+
+Note, repo does not contain final product. Only R code for explored prediction techniques on GTFS data and final model assessment .  
+
 <div class="box" align="center">
         <img src="img/agenda.png" width=500 ></p><p style="text-align:center">
         <p style="text-align:center">
