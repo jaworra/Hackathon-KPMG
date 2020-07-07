@@ -3,7 +3,7 @@
 
 <p>
 <img src="img/logo.png"  ></p><p style="text-align:left">
-GoTime Phone App for predict (neural network) bus delays caused to unexpected incidents. Receiving the Customer Focus award for our efforts.
+GoTime Phone App to predict (neural network) bus delays caused to unexpected incidents. Receiving the Customer Focus award for our efforts.
 </p>
 
 # Problem
@@ -17,7 +17,7 @@ As part of the TMR Hack and the KPMG Hackathon, Marco Motta and John Worrall, fr
 - Ruby on Rails
 - R
 
-Note, repo does not contain final product. Only R code for explored prediction techniques on GTFS data and final model assessment .  
+*Note: repo does not contain final product. Only R code for explored prediction techniques on GTFS data and final model assessment .  
 
 <div class="box" align="center">
         <img src="img/agenda.png" width=500 ></p><p style="text-align:center">
