@@ -1,5 +1,10 @@
-# Hackathon-KPMG
+
+# Hackathon
+
+<p>
+<img src="img/logo.png"  ></p><p style="text-align:left">
 GoTime Phone App for predict (neural network) bus delays caused to unexpected incidents. Receiving the Customer Focus award for our efforts.
+</p>
 
 # Problem
 Have you ever wondered what happened to your bus? While the TransLink app works extremely well in normal traffic conditions, it struggles to provide relevant information and useful alternative options when the unexpected happens –such as accidents or road closures on the bus network. This means customers cannot make an informed decision as to what is their best option to get to their destination on time.
@@ -7,13 +12,18 @@ Have you ever wondered what happened to your bus? While the TransLink app works 
 # Solution
 As part of the TMR Hack and the KPMG Hackathon, Marco Motta and John Worrall, from the Transport Analysis team at PPI, led the charge in developing the concept for a system that uses neural network analytics to predict bus delays caused by unexpected incidents
 
+<div class="box" align="center">
+        <img src="img/agenda.png" width=500 ></p><p style="text-align:center">
+        <p style="text-align:center">
+        <small>Schedule event</small>
+        </p>
+  </div>
 
 
 <div class="box" align="center">
-        <img src="img/agenda.png" height=300 />
         <img src="img/awards.png" height=300 />
         <p style="text-align:center">
-        <small>Schedule event and results</small>
+        <small>Results</small>
         </p>
   </div>
 
