@@ -17,7 +17,7 @@ As part of the TMR Hack and the KPMG Hackathon, Marco Motta and John Worrall, fr
 - Ruby on Rails
 - R
 
-*Note: repo does not contain final product. Only R code for explored prediction techniques on GTFS data and final model assessment .  
+*Note: repo does contain code on data wraggling or GUI, only R code for explored prediction techniques on GTFS data and final model assessment.  
 
 <div class="box" align="center">
         <img src="img/agenda.png" width=500 ></p><p style="text-align:center">
