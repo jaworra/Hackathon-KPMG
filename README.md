@@ -3,7 +3,7 @@
 
 <p>
 <img src="img/logo.png"  ></p><p style="text-align:left">
-GoTime Phone App to predict (neural network) bus delays caused to unexpected incidents. Receiving the Customer Focus award for our efforts.
+GoTime Phone App to predict (neural network) bus delays caused by unexpected incidents. Receiving the Customer Focus award for our efforts.
 </p>
 
 ## Problem
